@@ -11,7 +11,7 @@ ${data.description}
 * [Installation](#installation)
 
 * [Usage](#usage)
-${renderLicenseLink(data.license)}
+
 * [Contributing](#contributing)
 
 * [Tests](#tests)
@@ -30,7 +30,7 @@ ${data.installation}
 
 ${data.usage}
 
-${renderLicenseSection(data.license)}
+
   
 ## Contributing
 

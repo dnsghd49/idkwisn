@@ -1,7 +1,9 @@
 # test
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-  [![Build Status](https://img.shields.io/github/forks/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen)
+  [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/dnsghd49/goodReadMeGen/graphs/contributors/)
+  [![Build Status](https://img.shields.io/github/forks/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen/network)
   [![Build Status](https://img.shields.io/github/stars/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Description
 

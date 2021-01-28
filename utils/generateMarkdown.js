@@ -9,10 +9,10 @@ function renderLicenseBadge(license) {
 // function to generate markdown for README (file format function)
 function generateMarkdown(data) {
   return `# ${data.title}
-  [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/dnsghd49/goodReadMeGen/graphs/contributors/)
-  [![Build Status](https://img.shields.io/github/forks/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen/network/)
-  [![Build Status](https://img.shields.io/github/stars/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen/)
-  [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/dnsghd49/goodReadMeGen/issues/)
+  [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/dnsghd49/idkwisn/graphs/contributors/)
+  [![Build Status](https://img.shields.io/github/forks/dnsghd49/idkwisn.svg)](https://github.com/dnsghd49/idkwisn/network/)
+  [![Build Status](https://img.shields.io/github/stars/dnsghd49/idkwisn.svg)](https://github.com/dnsghd49/idkwisn/)
+  [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/dnsghd49/idkwisn/issues/)
   ${renderLicenseBadge(data.license)}
 
 

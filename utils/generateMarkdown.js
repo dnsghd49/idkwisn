@@ -10,8 +10,9 @@ function renderLicenseBadge(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
   [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/dnsghd49/goodReadMeGen/graphs/contributors/)
-  [![Build Status](https://img.shields.io/github/forks/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen/network)
-  [![Build Status](https://img.shields.io/github/stars/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen)
+  [![Build Status](https://img.shields.io/github/forks/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen/network/)
+  [![Build Status](https://img.shields.io/github/stars/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen/)
+  [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/dnsghd49/goodReadMeGen/issues/)
   ${renderLicenseBadge(data.license)}
 
 

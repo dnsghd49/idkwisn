@@ -5,25 +5,28 @@ function renderLicenseBadge(license) {
   return ''
 }
 
-
-function renderContributors(license) {
+function forks(license) {
   if (license !== "None") {
-    return `![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)`
+    return `[![Build Status](https://img.shields.io/github/forks/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen)`
+  }
+  return ''
+}
+
+function stars(license) {
+  if (license !== "None") {
+    return `[![Build Status](https://img.shields.io/github/stars/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen)`
   }
   return ''
 }
 
 
-
 // function to generate markdown for README (file format function)
 function generateMarkdown(data) {
   return `# ${data.title}
-${renderLicenseBadge(data.license)}
-${renderContributors(data.license)}
+  ${renderLicenseBadge(data.license)}
+  ${forks(data.license)}
+  ${stars(data.license)}
 
-
-
-  
 ## Description
 
 ${data.description}

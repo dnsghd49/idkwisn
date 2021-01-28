@@ -1,10 +1,8 @@
 # test
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  [![Build Status](https://img.shields.io/github/forks/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen)
+  [![Build Status](https://img.shields.io/github/stars/dnsghd49/goodReadMeGen.svg)](https://github.com/dnsghd49/goodReadMeGen)
 
-
-
-  
 ## Description
 
 test

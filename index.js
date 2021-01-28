@@ -19,6 +19,11 @@ const questions = [
         message: "What is your project's name?"
     },{
         type: "input",
+        name: "image",
+        message: "What is the path for this project's screenshot?",
+        default: "assets/img/screenshot.gif",
+    },{
+        type: "input",
         name: "description",
         message: "Please write a short description of your project"
     },{
@@ -30,7 +35,7 @@ const questions = [
         type: "input",
         name: "installation",
         message: "What command should be run to install dependencies?",
-        default: "npm i"
+        default: "npm install"
     },{
         type: "input",
         name: "test",

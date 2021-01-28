@@ -1,7 +1,29 @@
+function renderLicenseBadge(license) {
+  if (license !== "None") {
+    return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`
+  }
+  return ''
+}
+
+
+function renderContributors(license) {
+  if (license !== "None") {
+    return `![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)`
+  }
+  return ''
+}
+
+
+
 // function to generate markdown for README (file format function)
 function generateMarkdown(data) {
   return `# ${data.title}
+${renderLicenseBadge(data.license)}
+${renderContributors(data.license)}
 
+
+
+  
 ## Description
 
 ${data.description}

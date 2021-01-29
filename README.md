@@ -32,6 +32,10 @@ This command line app will help you to make a README.MD file by asking few repo 
 
 https://www.youtube.com/watch?v=UzFqNuBvgJU&feature=youtu.be
 
+## Usage
+
+If you want to change the destination of the generated README then simplly go to index.js file, on line 58 change the default directory 'tests' to something that you like! (ofc you have to make a folder inside of this this repo folder.)
+
 ## Installation
 
 To install necessary dependencies, run the following command:
@@ -39,17 +43,6 @@ To install necessary dependencies, run the following command:
 ```
 npm install
 ```
-
-## Usage
-
-If you want to change the destination of the generated README then simplly go to index.js file, on line 58 change the default directory 'tests' to something that you like! (ofc you have to make a folder inside of this this repo folder.)
-
-
-  
-## Contributing
-
-Please contact me through email: aaronnoh0409@gmail.com
-
 ## Tests
 
 To run tests, run the following command:
@@ -57,6 +50,10 @@ To run tests, run the following command:
 ```
 node index.js
 ```
+
+## Contributing
+
+Please contact me through email: aaronnoh0409@gmail.com
 
 ## Questions
 

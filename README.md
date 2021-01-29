@@ -26,7 +26,11 @@ This command line app will help you to make a README.MD file by asking few repo 
 
 ## Screenshot
 
+![Screenshots](https://github.com/dnsghd49/idkwisn/blob/main/assets/myFile.gif "Test run")
 
+## Walk-Through video
+
+https://www.youtube.com/watch?v=UzFqNuBvgJU&feature=youtu.be
 
 ## Installation
 

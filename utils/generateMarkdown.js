@@ -22,6 +22,8 @@ ${data.description}
 
 ## Table of Contents 
 
+* [Screenshot](#screenshot)
+
 * [Installation](#installation)
 
 * [Usage](#usage)
@@ -31,6 +33,10 @@ ${data.description}
 * [Tests](#tests)
 
 * [Questions](#questions)
+
+## Screenshot
+
+![ScreenShot](https://raw.github.com/${data.username}/${data.title}/${data.screenshot})
 
 ## Installation
 

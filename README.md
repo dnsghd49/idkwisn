@@ -12,6 +12,8 @@ This command line app will help you to make a README.MD file by asking few repo 
 
 ## Table of Contents 
 
+* [Screenshot](#screenshot)
+
 * [Installation](#installation)
 
 * [Usage](#usage)
@@ -21,6 +23,10 @@ This command line app will help you to make a README.MD file by asking few repo 
 * [Tests](#tests)
 
 * [Questions](#questions)
+
+## Screenshot
+
+assets/img/screenshot.gif
 
 ## Installation
 

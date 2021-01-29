@@ -10,10 +10,6 @@
 
 This command line app will help you to make a README.MD file by asking few repo questions, and it uses user's input and make a full README file.
 
-## Screenshots
-
-
-
 ## Table of Contents 
 
 * [Screenshot](#screenshot)
@@ -28,6 +24,9 @@ This command line app will help you to make a README.MD file by asking few repo 
 
 * [Questions](#questions)
 
+## Screenshot
+
+
 
 ## Installation
 
@@ -40,6 +39,7 @@ npm install
 ## Usage
 
 If you want to change the destination of the generated README then simplly go to index.js file, on line 58 change the default directory 'tests' to something that you like! (ofc you have to make a folder inside of this this repo folder.)
+
 
   
 ## Contributing

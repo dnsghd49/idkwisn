@@ -26,7 +26,7 @@ This command line app will help you to make a README.MD file by asking few repo 
 
 ## Screenshot
 
-assets/img/screenshot.gif
+
 
 ## Installation
 
@@ -44,7 +44,7 @@ If you want to change the destination of the generated README then simplly go to
   
 ## Contributing
 
-.
+Please contact me through email: aaronnoh0409@gmail.com
 
 ## Tests
 

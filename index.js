@@ -21,7 +21,7 @@ const questions = [
         type: "input",
         name: "screenshot",
         message: "What is the path for this project's screenshot?",
-        default: "Ex: tree/main/assets/img/screenshot.png",
+        default: "Ex: main/assets/img/screenshot.png",
     },{
         type: "input",
         name: "description",

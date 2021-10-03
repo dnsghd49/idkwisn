@@ -57,4 +57,4 @@ Please contact me through email: aaronnoh0409@gmail.com
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at aaronnoh0409@gmail.com. You can find more of my work at [My-works](https://github.com/dnsghd49/).
+If you have any questions about the repo, open an issue or contact me directly at aaronnoh0409@gmail.com. You can find more of my work at [Repos](https://github.com/dnsghd49/).

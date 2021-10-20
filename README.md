@@ -8,7 +8,7 @@
 
 ## Description
 
-This command line app will help you to make a README.MD file by asking few repo questions, and it uses user's input and make a full README file.
+This command line application can help you with generating a README.MD file by asking few necessary questions. (you have to match your desired Github repo information in order to work) 
 
 ## Table of Contents 
 

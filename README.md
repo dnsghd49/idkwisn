@@ -10,6 +10,10 @@
 
 This command line application can help you with generating a README.MD file by asking few necessary questions. (you have to match your desired Github repo information in order to work) 
 
+## Walk-Through video
+
+https://www.youtube.com/watch?v=UzFqNuBvgJU&feature=youtu.be
+
 ## Table of Contents 
 
 * [Screenshot](#screenshot)
@@ -27,10 +31,6 @@ This command line application can help you with generating a README.MD file by a
 ## Screenshot
 
 ![Screenshots](https://github.com/dnsghd49/idkwisn/blob/main/assets/myFile.gif "Test run")
-
-## Walk-Through video
-
-https://www.youtube.com/watch?v=UzFqNuBvgJU&feature=youtu.be
 
 ## Usage
 

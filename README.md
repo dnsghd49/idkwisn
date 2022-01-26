@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=UzFqNuBvgJU&feature=youtu.be
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
+* [Start](#Start_script)
 
 * [Questions](#questions)
 
@@ -43,9 +43,9 @@ To install necessary dependencies, run the following command:
 ```
 npm install
 ```
-## Tests
+## Start_script
 
-To run tests, run the following command:
+To run the app, run the following command:
 
 ```
 node index.js

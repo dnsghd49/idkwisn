@@ -36,7 +36,7 @@ ${data.description}
 
 ## Screenshot
 
-![ScreenShot](https://raw.github.com/${data.username}/${data.title}/${data.screenshot})
+![ScreenShot](https://github.com/${data.username}/${data.title}/blob/main/${data.screenshot})
 
 ## Installation
 

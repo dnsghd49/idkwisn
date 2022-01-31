@@ -8,7 +8,11 @@
 
 ## Description
 
-This command line app will help you to make a README.MD file by asking few repo questions, and it uses user's input and make a full README file.
+This command line application can help you with generating a README.MD file by asking few necessary questions. (you have to match your desired Github repo information in order to work) 
+
+## Walk-Through video
+
+https://www.youtube.com/watch?v=UzFqNuBvgJU&feature=youtu.be
 
 ## Table of Contents 
 
@@ -20,17 +24,13 @@ This command line app will help you to make a README.MD file by asking few repo 
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
+* [Start](#Start_script)
 
 * [Questions](#questions)
 
 ## Screenshot
 
 ![Screenshots](https://github.com/dnsghd49/idkwisn/blob/main/assets/myFile.gif "Test run")
-
-## Walk-Through video
-
-https://www.youtube.com/watch?v=UzFqNuBvgJU&feature=youtu.be
 
 ## Usage
 
@@ -43,9 +43,9 @@ To install necessary dependencies, run the following command:
 ```
 npm install
 ```
-## Tests
+## Start_script
 
-To run tests, run the following command:
+To run the app, run the following command:
 
 ```
 node index.js
@@ -57,4 +57,4 @@ Please contact me through email: aaronnoh0409@gmail.com
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at aaronnoh0409@gmail.com. You can find more of my work at [undefined](https://github.com/dnsghd49/).
+If you have any questions about the repo, open an issue or contact me directly at aaronnoh0409@gmail.com. You can find more of my work at [Repos](https://github.com/dnsghd49/).

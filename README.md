@@ -53,7 +53,7 @@ node index.js
 
 ## Contributing
 
-Please contact me through email: aaronnoh0409@gmail.com
+Please contact me through email: yunhonglu0409@gmail.com
 
 ## Questions
 
